@@ -8,7 +8,7 @@
 
 ## Try it out
 
-Live [Demo]("https://checkplanner.netlify.com/").
+Live [Demo](https://checkplanner.netlify.com/).
 
 ## Version
 
